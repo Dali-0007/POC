@@ -1,5 +1,5 @@
-
-const faker = require('faker');
+import faker from 'Faker';
+//const faker = require('faker');
 
 const generateData = (count) => {
   const data = [];
